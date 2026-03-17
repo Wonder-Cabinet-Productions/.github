@@ -1,11 +1,3 @@
-Intimate conversations about the mysteries of the cosmos and life on a sentient planet with writers, philosophers and scientists who are dazzled by it all.
-<!--
+You know that moment of amazed surprise when you encounter something so unexpected that it feels almost magical? Maybe a rush of beauty, or an experience of transcendence, or an idea that blows your mind.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+[Wonder Cabinet](https://wondercabinetproductions.com/) is a podcast that revels in these experiences of wonder. It’s the new audio project from Anne Strainchamps and Steve Paulson, the creators of the Peabody Award-winning public radio show To The Best Of Our Knowledge. For more than 30 years, they’ve been talking with many of the world’s greatest scientists, poets and philosophers. Now, they’re going deeper, with longer, more intimate interviews about the mystery of the cosmos, the deep intelligence of the Earth, and ideas to re-enchant everyday life.
